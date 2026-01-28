@@ -4,11 +4,6 @@ Data analyst specializing in web3/blockchain analytics, with expertise in SQL, P
 
 ## 🔗 Web3 Analytics Projects
 
-### [Chainlink Ecosystem Partner Analysis](./chainlink-ecosystem-analysis/)
-...
-
-### [DeFi Exploit Analysis Dashboard](./defi-exploit-analysis/)
-...
 
 ## 📊 Data Analysis & Visualization
 
