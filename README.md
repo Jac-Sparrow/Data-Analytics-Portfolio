@@ -2,7 +2,7 @@
 
 ## 🔗 Web3 Analytics Projects
 
-### [Stablecoin Market Analysis(https://dune.com/sparrow_jac/stablecoin-market-analysis)
+### [Stablecoin Market Analysis](https://dune.com/sparrow_jac/stablecoin-market-analysis)
 ...
 
 ## 📊 Data Analysis & Visualization
