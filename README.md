@@ -1,9 +1,9 @@
 # Data Analytics Portfolio
 
-Data analyst specializing in web3/blockchain analytics, with expertise in SQL, Python, and data visualization.
-
 ## 🔗 Web3 Analytics Projects
 
+### [Stablecoin Market Analysis(https://dune.com/sparrow_jac/stablecoin-market-analysis)
+...
 
 ## 📊 Data Analysis & Visualization
 
@@ -40,4 +40,6 @@ Data analyst specializing in web3/blockchain analytics, with expertise in SQL, P
 - **Tools:** Jupyter, Git
 
 ## 📫 Contact
-[Links]
+- [X](https://x.com/captsparrowjac)
+- [Telegram](https://t.me/sparrow_wb3)
+
