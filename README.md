@@ -22,7 +22,7 @@
 
 ### [Tableau Dashboards](https://public.tableau.com/app/profile/sparrow.jac1550/vizzes)
 
-### [Power BI Project]()
+### [Power BI Project](https://github.com/Jac-Sparrow/Data-Analytics-Portfolio/blob/main/Power%20BI%20Project.pdf)
 
 ## 🛠️ Technical Skills
 - **Languages:** Python, SQL
