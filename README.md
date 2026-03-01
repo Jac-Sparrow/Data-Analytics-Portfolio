@@ -4,6 +4,8 @@
 
 ### [Stablecoin Market Analysis](https://dune.com/sparrow_jac/stablecoin-market-analysis)
 
+### Web3 security exploits dashboard (Coming soon)
+
 ## 📊 Data Analysis & Visualization
 
 ### [Correlation Analysis](https://github.com/Jac-Sparrow/Data-Analytics-Portfolio/blob/main/Correlation%20Analysis%20in%20Python%20.ipynb)
